@@ -6,3 +6,8 @@ The chat application supports following functionalities:
 
 1. Send messages with user information and message contents. 
 2. The format of the message is displayed as (WHO)sent (Message Content), the message will be displayed in the textarea once the user clicked the submit button.
+
+
+Demo of the application is as follows:
+
+![Aaron Swartz](https://github.com/elva329/PHP-SimpleChatApplication/raw/master/chat.gif)
