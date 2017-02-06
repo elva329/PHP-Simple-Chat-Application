@@ -20,4 +20,4 @@ The chat application supports following functionalities:
 
 3. Put the source code package into the htdocs folder of XAMPP,
 
-4. Open your web browser, type localhost/PHP-SimpleChatApplication/index.html
+4. Open your web browser, type localhost/PHP-SimpleChatApplication/index.php
