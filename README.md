@@ -11,3 +11,13 @@ The chat application supports following functionalities:
 # Demo of the application
 
 ![Aaron Swartz](https://github.com/elva329/PHP-SimpleChatApplication/raw/master/chat.gif)
+
+# How to run the application
+
+Step 1 Clone or download the source code package.
+
+Step 2 Install XAMPP and start all the server.
+
+Step 3 Put the source code package into the htdocs folder of XAMPP,
+
+Step4 Open your web browser, type localhost/PHP-SimpleChatApplication/index.html
