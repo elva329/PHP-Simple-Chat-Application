@@ -14,10 +14,10 @@ The chat application supports following functionalities:
 
 # How to run the application
 
-Step 1 Clone or download the source code package.
+1. Clone or download the source code package.
 
-Step 2 Install XAMPP and start all the server.
+2. Install XAMPP and start all the server.
 
-Step 3 Put the source code package into the htdocs folder of XAMPP,
+3. Put the source code package into the htdocs folder of XAMPP,
 
-Step4 Open your web browser, type localhost/PHP-SimpleChatApplication/index.html
+4. Open your web browser, type localhost/PHP-SimpleChatApplication/index.html
